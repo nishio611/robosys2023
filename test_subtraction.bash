@@ -15,3 +15,4 @@ out=$(seq 5 | ./subtraction)
 
 [ "$res" = 0 ] && echo OK
 exit $res
+
