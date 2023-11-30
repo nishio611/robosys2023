@@ -2,12 +2,12 @@
  * このプログラムは2023年度ロボットシステム学内での課題1として作成したプログラムです。
 
 # plusコマンド
-[![test](https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足すプログラム
 
 # subtraction
-[![test_subtraction]((https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml))
+![test_subtraction]((https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml))
 
 標準入力から読み込んだ数字を引くプログラム
 
