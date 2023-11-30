@@ -34,7 +34,7 @@ seq 10 |./plus
 
 ```
 cd robosys2023
-seq 10 |.subtraction
+seq 10 |./subtraction
 ```
 
 ## 制作者
