@@ -7,9 +7,7 @@ ng () {
 	res=1
 }
 
-
 res=0
-
 
 out=$(seq 5 | ./subtraction)
 [ "${out}" = 15 ] || ng ${LINENO}
