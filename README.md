@@ -7,7 +7,7 @@
 標準入力から読み込んだ数字を足すプログラム
 
 # subtraction
-[![test_subtraction]((https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg))
+![test_subtraction]((https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml/badge.svg))
 
 標準入力から読み込んだ数字を引くプログラム
 
