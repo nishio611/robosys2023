@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xv
 # SPDX-FileCopyrightText: 2023 Nishio Chihiro
 # SPDX-License-Identifier: BSD-3-clause
 
@@ -7,7 +7,10 @@ ng () {
 	res=1
 }
 
+
 res=0
+
+
 out=$(seq 5 | ./subtraction)
 [ "${out}" = 15 ] || ng ${LINENO}
 
