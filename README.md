@@ -4,7 +4,12 @@
 # plusコマンド
 ![test](https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す
+標準入力から読み込んだ数字を足すプログラム
+
+# subtraction
+[![test_subtraction](https://github.com/nishio611/robosys2023/blob/main/subtraction)
+
+標準入力から読み込んだ数字を引くプログラム
 
 ## 必要なソフトウェア
  * Python
@@ -25,6 +30,13 @@ git clone https://github.com/nishio611/robosys2023.git
 cd robosys2023
 seq 10 |./plus
 ```
+あるいは
+
+```
+cd robosys2023
+seq 10 |.subtraction
+```
+
 ## 制作者
  * 西尾地弘
 
