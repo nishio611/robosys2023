@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: BSD-3-clause
 
 ng () {
-	echo NG at Line $1
+	echo NG at Line $0
 	res=1
 }
 
