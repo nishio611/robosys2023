@@ -4,15 +4,15 @@
 
 ng () {
 	echo NG at Line $1
-	res=1
+	res2=1
 }
 
-res=0
+res2=0
 
 
-out=$(seq 1 | ./subtraction)
-[ "${out}" = -1 ] || ng ${LINENO}
+out2=$(seq 1 | ./subtraction)
+[ "${out2}" = -1 ] || ng ${LINENO}
 
-[ "$res" = 0 ] && echo OK
-exit $res
+[ "$res2" = 0 ] && echo OK
+exit $res2
 
