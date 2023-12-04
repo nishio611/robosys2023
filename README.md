@@ -17,7 +17,7 @@ $seq 10 | ./plus
 
 標準入力から読み込んだ数字を引くプログラム
 
-## subtractionコマンド
+## subtractionコマンド実行例
 ```
 $seq 10 | ./subtraction
 -55
