@@ -6,10 +6,22 @@
 
 標準入力から読み込んだ数字を足すプログラム
 
-# subtraction
+### plusコマンド実行例
+```
+$seq 10 | ./plus
+55
+```
+
+# subtractionコマンド
 [![test_subtraction](https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml/badge.svg)](https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml)
 
 標準入力から読み込んだ数字を引くプログラム
+
+### subtractionコマンド
+```
+$seq 10 | ./subtraction
+-55
+```
 
 ## インストールの方法
  * 下記のコードを使用環境にて下記のコードを実行する（使用環境によりコードが異なる可能性あり）
