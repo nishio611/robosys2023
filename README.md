@@ -1,5 +1,5 @@
 # robosys2023
- * このプログラムは2023年度ロボットシステム学内での課題1として作成したプログラムです。
+ * このプログラムは2023年度ロボットシステム学内での課題として作成したプログラムです。
 
 # plusコマンド
 [![test](https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/nishio611/robosys2023/actions/workflows/test.yml)
