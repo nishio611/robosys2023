@@ -4,7 +4,8 @@
 # plusコマンド
 [![test](https://github.com/nishio611/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/nishio611/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足すプログラム
+標準入力から得た数字を基に、その数字までの値をを順に足していくプログラムです。
+（下記の場合:1+2+3+4+5+6+7+8+9+10=55）
 
 #### plusコマンド実行例
 ```
@@ -15,7 +16,9 @@ $seq 10 | ./plus
 # subtractionコマンド
 [![test_subtraction](https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml/badge.svg)](https://github.com/nishio611/robosys2023/actions/workflows/test_subtraction.yml)
 
-標準入力から読み込んだ数字を引くプログラム
+標準入力から得た数字を基に、その数字までの値をを順に引いていくプログラムです。
+（下記の場合:-1-2-3-4-5-6-7-8-9-10=-55）
+
 
 #### subtractionコマンド実行例
 ```
